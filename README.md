@@ -1,4 +1,4 @@
-# pacakage-managment
+# patch-managment
 
 1) Creating a record of all the assests used by comapany
 
